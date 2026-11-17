@@ -1,8 +1,8 @@
 class Konnnyaku < Formula
   desc "Local English and Japanese live captions with translation for macOS"
   homepage "https://github.com/konnta0/konnnyaku"
-  url "https://github.com/konnta0/konnnyaku/releases/download/v0.1.0/konnnyaku-v0.1.0-aarch64-apple-darwin.tar.gz"
-  sha256 "618ec3f8f0d03e2327a82ce7ca9cd3c501f1c239918698306ec2d5d650aaaa8d"
+  url "https://github.com/konnta0/konnnyaku/releases/download/v0.1.1/konnnyaku-v0.1.1-aarch64-apple-darwin.tar.gz"
+  sha256 "9cb5516eefabc68e41d9f9194cd2d516237649f83caabc86f446afdfad09bf92"
   license "MIT"
 
   depends_on arch: :arm64
